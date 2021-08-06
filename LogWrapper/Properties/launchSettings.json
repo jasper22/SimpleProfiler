@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LogWrapper": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Projects\\ShugiShugi\\ShugiShugi.Test\\bin\\Debug\\net472 ShugiShugi.Test.dll"
+    }
+  }
+}
